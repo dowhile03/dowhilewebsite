@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> dowhile </title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<header>
+<div class="main">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Service</a></li>
+<li><a href="#">Sign up</a></li>
+<li><a href="#">About</a></li>
+</ul>
+</div>
+<div class="Title">
+<h1> dowhile </h1>
+</div>
+</header>
+</body>
+</html>
